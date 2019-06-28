@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Coaster App</string>
+    <!-- Category name for the vocabulary words for disneyland [CHAR LIMIT=20] -->
+    <string name="category_disneyland">Disneyland</string>
+    <string name="category_knotts">Knotts</string>
+    <string name="category_magic">Magic</string>
+    <string name="category_universal">Universal</string>
+
+
+    //Disneyland Attractions
+    <string name="space_mountain">Space Mountain</string>
+    <string name="space_mountain_desc">Blast off on a speeding rocket through the darkest reaches of outer space.</string>
+
+    <string name="matterhorn">Matterhorn</string>
+    <string name="matterhorn_desc">Careen through a snow-capped mountain on a speeding alpine sled while avoiding the clutches of the mythic Abominable Snowman.</string>
+
+    <string name="big_thunder">Big Thunder</string>
+    <string name="big_thunder_desc">Dash in and out of craggy caverns and rumble through an old mine aboard a speeding train.</string>
+
+    <string name="splash_mountain">Splash Mountain</string>
+    <string name="splash_mountain_desc">Embark on a rollicking log flume ride featuring characters and songs from the classic Disney film Song of the South.</string>
+
+
+    //Knotts Attractions
+
+    <string name="sierra_sidewinder">Sierra Sidewinder</string>
+    <string name="sierra_sidewinder_desc">Sierra Sidewinder combines speed with spin.</string>
+
+    <string name="silver_bullet">Silver Bullet</string>
+    <string name="silver_bullet_desc">Riders will spiral, corkscrew, fly into a cobra roll, and experience overbanked curves.</string>
+
+    <string name="boomerang">Boomerang</string>
+    <string name="boomerang_desc">Inverts thrill-seekers six times, three times while traveling forward and three times while going backwards,.</string>
+
+    <string name="xcelerator">Xcelerator</string>
+    <string name="xcelerator_desc">Rocket 0-82 mph in 2.3 seconds hundreds of feet into the air before immediately hurtling 90 degrees straight down.</string>
+
+
+    //Magic Mountain Attractions
+
+
+
+    //Universal Studion Attractions
+
+
+</resources>
